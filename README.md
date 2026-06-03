@@ -22,9 +22,9 @@ AI-Powered Startup Pitch Deck Analyzer
 
 ## Screenshots
 
-![Project Preview](assets/Sa.png)
-![Project Preview](assets/Sa2.png)
-![Project Preview](assets/Sa3.png)
+![Project Preview](assets/sa.png)
+![Project Preview](assets/sa2.png)
+![Project Preview](assets/sa3.png)
 
 ## Installation
 
